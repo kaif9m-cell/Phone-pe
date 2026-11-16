@@ -1,0 +1,8 @@
+{
+  "name": "Remix PhonePe",
+  "description": "PhonePe UPI payments app featuring real-time money transfers, QR code scan \u0026 pay, personal receive QR, biometric lock, and searchable transaction history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

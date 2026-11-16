@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhonePe</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_history">History</string>
+    <string name="tab_scan">Scan</string>
+    <string name="tab_wallet">Wallet</string>
+    <string name="tab_my_qr">My QR</string>
+    <string name="error_invalid_amount">Enter a valid amount between ₹1 and ₹1,00,000</string>
+    <string name="error_insufficient_balance">Insufficient balance in selected account</string>
+    <string name="error_incorrect_pin">Incorrect UPI PIN. Default PIN is 1234</string>
+</resources>
